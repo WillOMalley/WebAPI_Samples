@@ -1,0 +1,4 @@
+C:\VisualStudio2019_Projects\WebServices\SqlCommunicatorWebAPI\obj\Debug\netcoreapp3.0\SqlCommunicatorWebAPI.csprojAssemblyReference.cache
+C:\VisualStudio2019_Projects\WebServices\SqlCommunicatorWebAPI\obj\Debug\netcoreapp3.0\SqlCommunicatorWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\VisualStudio2019_Projects\WebServices\SqlCommunicatorWebAPI\obj\Debug\netcoreapp3.0\SqlCommunicatorWebAPI.AssemblyInfoInputs.cache
+C:\VisualStudio2019_Projects\WebServices\SqlCommunicatorWebAPI\obj\Debug\netcoreapp3.0\SqlCommunicatorWebAPI.AssemblyInfo.cs
